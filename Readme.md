@@ -7,6 +7,9 @@
 * [App.xaml.cs](./CS/E2894/App.xaml.cs)
 <!-- default file list end -->
 # How to use custom report parameter types in Silverlight
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2894)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how you can pass parameters of custom types to your report in Silverlight applications.</p>
